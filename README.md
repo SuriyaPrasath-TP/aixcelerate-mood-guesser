@@ -5,16 +5,6 @@
 ## Level 3: Testing
 Accuracy on the 5 practice sentences: 100%
 
-1. The sentence that was closest to going wrong was “[sentence].” My program [explain what clue words matched, or why there was a tie].
-2. One change that could improve my program is [your idea].
-
-## Learning questions
-
-1. “good party today” total score and mood: [# Mood Guesser
-
-## Level 3: Testing
-Accuracy on the 5 practice sentences: 100%
-
 1. The sentence that was closest to going wrong was “Today was a great day.” Before I added “great” to my Happy clues, neither list matched, so both scores tied and the program chose Sad.
 2. One change that could improve my program is One improvement would be to use more varied training sentences and test the program on examples it hasn’t seengive me tha sentence that shul.
 
